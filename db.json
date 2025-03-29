@@ -1,0 +1,23 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "32-bit MCU (3V3-LQFP100)",
+        "PN": "STM32L475VGT6",
+        "MF": "STMicroelectronics"
+      },
+      "MID": "MID20254",
+      "MD": "STM32L475VGT6 part is 3V3 logic with LQFP100 package (100Pins). Max MCU Current = 150mA || Max. Tolarent Voltage for VDD/VSS = 4V & for IO Pins = VDD;  Other Specs:  Ultra-low-power Arm® Cortex®-M4 32-bit MCU+FPU, 100DMIPS,up to 1MB Flash, 128 KB SRAM, USB OTG FS, analog, audio. DB Note: Locatio to be allocate & Reference to be add.",
+      "MT": "Electronic Comp.",
+      "MQNT": 10,
+      "MQATG": "#CLASS0",
+      "ML": "",
+      "MDS": "https://www.mouser.in/datasheet/2/389/stm32l475rc-1851117.pdf",
+      "MR": "",
+      "MaterialImages": [
+        "https://media-hosting.imagekit.io/fa6279fe11394190/WhatsApp%20Image%202025-03-29%20at%202.01.34%20PM.jpeg?Expires=1837845199&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=X3WQTCk7oafRWuvC9kOVQxCJVMBA~Bv8jG7fSy2vgVe3iyY7X1a1tG1jpQz445msoXtw~BO2owxB3npZN2uClPMuk07dl9cp2BHn7C~GRNlUu3MU0sbiT2alxrLwhMt3Vj4wphPMIUWk0PQsZs6bIKbp~OHDEuS6tftkuvQDbsNNKg2iLKv6wdjbDC0kfszRtFumNYyfklFG4VkNxOi5TIQn28V8ce6ZM4tDjlfHSVMMKFcGeXgX2y8dO3TrO9NNjIYzURaNeybzSzCEI9427Oqkv9Ybxq3kHOPC47w~xaYQkQAd9tzsz~TjzhnVBpHpsbKKDepJJr0yqWqNB20iMA__",
+        "https://media-hosting.imagekit.io/ba994364d9cc4a6c/WhatsApp%20Image%202025-03-29%20at%202.01.34%20PM%20(1).jpeg?Expires=1837845199&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MsY5GMm-fzqgr1vWQ1xR09MGrQuNsLT4bj~rnAHST7Q5U58e1X111MWzcM-M6cnzTgtTF2Ppt5e2tLwjp~6TKrtDrDaiEI7nSzdroHZw47ktxgTBSkThmEZfuXqRAAQWmKXkHfLi8jdW63U~yrUgwhhEHrxskrpXyjzl1NE~MKPQm5oKy-KMbo9~Sd4IDzmSEgVF17RNQbcvltaWl2LO-Naq69UEX11jX7526YMkToovAZ4zkngoC6GZH5o7u3jk4YREBv-3n93DjoVFjZFsVz9kQFn7EBi4nK7DWTYxyymx7rNd8ADtFB2xRAVNcGwUhYe02tAZ8k3EygLfAKhi3g__"
+      ]
+    }
+  ]
+}
